@@ -1,0 +1,39 @@
+body{
+  width: 100%;
+  background-color: aquamarine;
+}
+header{
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
+header a{
+  text-decoration: none;
+  color: white;
+}
+header a:hover{
+  color: black;
+}
+nav{
+  width: 500px;
+  margin: 0 auto;
+  text-align: left;
+  color: white;
+}
+nav a{
+  text-decoration: none;
+  color: white;
+}
+nav a:hover{
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+article{
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+}
